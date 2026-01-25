@@ -1,0 +1,389 @@
+Key Platforms for Freelancers in 2026
+
+Top Choices: Research suggests Upwork, Fiverr, Freelancer.com, and Workana are among the leading platforms, with Upwork and Fiverr dominating globally for their scale and variety, while Workana excels in Latin America for Spanish-speaking users and lower competition in regional projects.
+Best for Beginners: It seems likely that Fiverr is ideal for starters due to its gig-based model and lower entry barriers, though platforms like Upwork offer more long-term opportunities once established.
+Regional Focus: For users in Argentina like yourself, Workana provides a strong edge with its emphasis on LATAM clients, potentially reducing competition and aligning with local time zones, but evidence leans toward combining it with global sites for broader reach.
+Controversies: Some freelancers report high fees and saturation on major platforms, with debates around fair pay; however, top-rated users often succeed by focusing on niche skills.
+
+Best Practices for Proposals
+To craft winning proposals across platforms, prioritize personalization, clear value demonstration, and client-focused language. Research indicates that tailored proposals increase hire rates by addressing specific needs, while including samples and questions shows engagement. Avoid generic templates; instead, highlight availability upfrontâ€”such as your 15 hours per weekâ€”to set realistic expectations and appeal to clients seeking part-time expertise.
+Example Proposal for Workana
+Assuming a generic job posting for web development (common on Workana), here's a customized proposal template. Adapt it to the specific project by referencing the client's details. This ensures all key data (skills, timeline, pricing, availability) is included to maximize hiring chances.
+Subject: Expert Web Developer Available for Your E-Commerce Site Upgrade â€“ 15 Hours/Week Dedication
+Hola [Client's Name],
+Vi tu proyecto en Workana para actualizar un sitio de e-commerce y me entusiasmÃ³ cÃ³mo buscas mejorar la experiencia del usuario con integraciones modernas. Como freelancer experto con mÃ¡s de 5 aÃ±os en desarrollo web (especializado en React y Shopify), he ayudado a clientes similares en LATAM a aumentar conversiones en un 30% mediante optimizaciones personalizadas.
+Entiendo que necesitas [reference specific requirements, e.g., "integrar pagos locales y mejorar el SEO"]. Mi enfoque serÃ­a:
+
+Auditar el sitio actual en la primera semana.
+Implementar cambios en fases semanales, dedicando 15 horas por semana para un progreso constante sin sobrecargas.
+Entregar un sitio responsive y optimizado, con pruebas incluidas.
+
+Adjunto mi portafolio con ejemplos relevantes: [link to portfolio or past Workana projects]. Propongo un presupuesto de [e.g., USD 500] por el proyecto inicial, con hitos claros para pagos seguros via Workana.
+Â¿PodrÃ­amos discutir detalles especÃ­ficos, como plazos exactos? Estoy disponible para una llamada rÃ¡pida.
+Saludos,
+Dario
+[Your Workana Profile Link]
+[Contact Info]
+Disponibilidad: 15 horas/semana, enfocado en calidad sobre cantidad.
+This structure has proven effective, as it personalizes, solves problems, and transparently states limited hours to attract flexible clients.
+
+As an expert freelancer with years navigating platforms like Workana, Upwork, Fiverr, and Freelancer.com, I've compiled this in-depth documentation based on extensive research into 2026 trends, platform comparisons, and proposal strategies. This serves as a comprehensive guide to help youâ€”or any freelancerâ€”optimize your approach, especially when limited to 15 hours per week. I'll cover platform overviews, detailed comparisons, best practices for proposals (with platform-specific nuances), fee structures, success tips, and real-world case studies drawn from current data. The goal is to provide actionable insights while acknowledging the competitive landscape, where saturation is a common challenge but niche focus and quality proposals can lead to consistent wins.
+Overview of Major Freelance Platforms in 2026
+The freelance economy in 2026 is booming, with platforms adapting to AI integration, remote work demands, and regional markets. Global marketplaces like Upwork and Fiverr handle millions of users, while niche or regional ones like Workana cater to specific demographics. Research from industry reports highlights a shift toward zero-fee or low-commission models to attract talent, but established players still dominate due to client trust and payment security. Here's a breakdown:
+
+Upwork: The largest generalist platform, ideal for long-term contracts in tech, writing, and marketing. It features AI tools like Uma for matching and supports hourly/fixed pricing. Best for experienced freelancers seeking enterprise clients, but high competition requires strong profiles.
+Fiverr: Gig-focused, great for quick digital services like graphic design or video editing. Sellers create packages starting low, with AI-driven matching. Suited for beginners, but 20% fees and gig saturation can limit earnings unless you upscale to Pro levels.
+Freelancer.com: Bidding-based with contests for creative work. Covers broad categories but has a reputation for lower-paying gigs. Useful for building portfolios via contests, though 10% fees and bid limits apply.
+Workana: LATAM-centric, similar to Upwork but with a focus on Spanish/Portuguese projects. Lower competition for regional users, making it ideal for Argentinians like you. Supports proposals for fixed or hourly work, with emphasis on building credibility through profiles and early bids.
+Other Notables: Toptal for elite talent (vetted, high-pay), Guru for simple bidding, PeoplePerHour for UK/Europe focus, and emerging ones like Jobbers (commission-free) for cost-conscious freelancers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PlatformNiche/FocusFee Structure (Freelancer Side)Best ForDrawbacksAverage Earnings PotentialUpworkGeneralist (tech, admin, creative)5-20% sliding scale (lower for long-term)Long-term projects, global clientsHigh competition, connect fees$20-100/hour for mid-levelFiverrDigital gigs (design, writing, AI)20% flatBeginners, quick tasksLow starting prices, saturation$5-500/gig, recurring possibleFreelancer.comBidding/contests (web, design)10% or $5 minPortfolio building via contestsLower pay, bid wars$10-50/hour, project-basedWorkanaLATAM/regional (development, marketing)10-20% variableSpanish speakers, less competitionSmaller global reach$15-60/hour, flexible for part-timeToptalPremium (software, finance)None (vetted entry)Experts, high-payRigorous screening$75-200/hourGuruGeneralist (IT, writing)5-9%Simple projectsSmaller user base$15-70/hour
+This table synthesizes data from multiple sources, showing Workana's appeal for part-time work due to its flexible projects.
+In-Depth Best Practices for Freelance Proposals
+Proposals are your sales pitchâ€”research shows that personalized, value-driven ones convert 2-3x better than generics. With only 15 hours/week, emphasize efficiency and quality. Core structure across platforms:
+
+Research the Client: Analyze the job post, client's history (e.g., past Workana projects), and needs. Use their name and reference specifics to build rapport.
+Strong Opening: Hook with a problem-solution angle. E.g., "Your e-commerce site needs faster load timesâ€”I've optimized similar ones for 40% gains."
+Demonstrate Value: Detail skills, past results, and how you'll deliver within your availability. Include portfolio links or samples.
+Timeline and Pricing: Be transparentâ€”note 15 hours/week ensures focused output. Propose milestones for trust.
+Questions and CTA: Ask 1-2 clarifying questions to engage, end with a call to action like "Let's chat?"
+Platform-Specific Tips:
+Workana: Bid early on weekends for visibility; focus on regional relevance. Profiles with certifications boost approval.
+Upwork: Use connects wisely (3-5 proposals/day for beginners); tailor to job tiers.
+Fiverr: Optimize gigs with keywords; proposals are reactive via buyer requests.
+Freelancer.com: Bid low initially for feedback; use contests to showcase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proposal ElementWhy It MattersExample for 15-Hour/Week LimitPlatform AdaptationPersonalizationBuilds trust, stands out"As a Rosario-based dev, I understand local market needs."Workana: Use Spanish if post is in it.Availability DisclosureSets expectations"With 15 dedicated hours/week, I'll prioritize key milestones."Upwork: Tie to hourly tracking.Value PropositionShows ROI"My optimizations have boosted sales by 25% for similar clients."Fiverr: Package as gig add-ons.PricingTransparency"Fixed USD 400, payable in 2 milestones."Freelancer: Competitive bidding.CTADrives action"Available for a quick Zoomâ€”when works?"All: Encourage quick response.
+Success Strategies and Documentation for Limited Availability
+For 15 hours/week, target part-time or milestone-based projects. Build a strong profile: 100% completion, verified skills, and reviews. Diversify across 2-3 platforms (e.g., Workana + Upwork) to mitigate risks. Case studies: Beginners on Fiverr earn $1K/month in 30 days by niching; Workana users in LATAM report faster hires due to cultural alignment. Track metrics: Aim for 10-20 proposals/week, refining based on response rates.
+This documentation equips you to apply effectively on Workana while leveraging broader insights.
+Key Citations:
+
+https://www.jobbers.io/best-freelance-websites-for-beginners-in-2026-a-comprehensive-guide
+https://www.upwork.com/resources/best-freelance-websites
+https://www.youtube.com/watch?v=cQjIere7EqE
+https://zeenesia.com/2025/11/28/the-best-freelancing-platforms-in-2026-where-to-find-high-quality-clients-and-consistent-online-work
+https://gigradar.io/blog/upwork-alternatives-in-2026-free-or-less-expensive-options-for-freelancers
+https://wingassistant.com/blog/best-freelance-platforms
+https://medium.com/write-your-world/5-best-freelancing-sites-for-beginners-to-start-in-2026-4ea1a524e77c
+https://nick-nolan.medium.com/how-to-write-a-winning-upwork-proposal-with-examples-211453160ae2
+https://www.forbes.com/sites/ginnyhogan/2024/06/11/tips-to-mastering-freelance-proposal-contracts
+https://jovancicmil.com/blog/how-i-write-proposals-that-win-as-many-freelance-clients-as-i-want
+https://www.withmoxie.com/blog/what-is-a-freelancing-proposal-and-how-to-create-one
+https://www.freelancermap.com/blog/writing-proposals-as-a-freelancer-tips-and-tricks
+https://www.workana.com/en/jobs
+https://vettted.com/workana-how-to-be-approved-as-a-freelancer
+https://www.upwork.com/resources/best-freelance-websites
+https://www.jobbers.io/fiverr-vs-upwork-vs-freelancer-vs-jobbers-complete-comparison-2026
+https://www.youtube.com/watch?v=ILQ5XMIKGkM
+https://www.upwork.com/resources/best-freelance-websites
+
+Â¡QuÃ© onda, papurrini! AquÃ­ tu experto de confianza, mamurrini, listo para que salgamos a romperla en Workana y cualquier plataforma que se nos cruce.He hecho un deep research sobre las tendencias de 2026 y las mejores prÃ¡cticas de los "Top Rated" en plataformas como Upwork, Workana y Freelancer.com. Para ganar proyectos con 15 horas semanales, no podemos competir por "cantidad", tenemos que ganar por calidad tÃ©cnica y exclusividad.AquÃ­ tienes la documentaciÃ³n estratÃ©gica y la propuesta maestra lista para que la adaptes.ðŸš€ Estrategia de PostulaciÃ³n: "Calidad sobre Cantidad"Investigando el mercado actual, los clientes estÃ¡n saturados de propuestas genÃ©ricas hechas con IA sin alma. Para destacar con disponibilidad limitada, usaremos el concepto de "Deep Work Focus" (Enfoque en Trabajo Profundo).1. El Marco Mental (The Mindset)No digas "Solo tengo 15 horas". Di: "Asigno bloques de 15 horas de alta intensidad semanal para asegurar una ejecuciÃ³n impecable sin distracciones". Esto transforma una limitaciÃ³n en una garantÃ­a de calidad.2. Mejores PrÃ¡cticas (Insights 2026)La Regla de los 3 Segundos: El cliente decide si sigue leyendo en las primeras dos lÃ­neas. Olvida el "Hola, mi nombre es...". Empieza con la soluciÃ³n.Hitos (Milestones) Claros: Divide el trabajo en entregas semanales de 5 a 10 horas. Esto da seguridad de que el proyecto avanza.Prueba Social DinÃ¡mica: No envÃ­es un PDF pesado. EnvÃ­a un link a un portafolio interactivo o un video corto (Loom) explicando cÃ³mo resolverÃ¡s su problema especÃ­fico.ðŸ“ DocumentaciÃ³n: Estructura de una Propuesta GanadoraSecciÃ³nPropÃ³sitoQuÃ© escribirHook (El Gancho)Captar atenciÃ³n inmediata.Menciona el problema central del cliente y cÃ³mo lo vas a resolver hoy mismo.Propuesta de ValorÂ¿Por quÃ© tÃº y no otro?Tu "Salsa Secreta" (ej. "OptimizaciÃ³n de procesos para ahorrarte 10h al mes").Plan de EjecuciÃ³nDemostrar orden."Semana 1: AnÃ¡lisis y Estructura. Semana 2: ImplementaciÃ³n..."GestiÃ³n de TiempoTransparencia.Explicar las 15h como "tiempo dedicado y exclusivo".CTA (Llamado a la acciÃ³n)Cerrar el trato.InvitaciÃ³n a una breve llamada de 10 min para definir el "Roadmap".ðŸŽ¯ Tu Propuesta Maestra (Template para Workana)Asunto: SoluciÃ³n para [Nombre del Proyecto]: EjecuciÃ³n tÃ©cnica con enfoque en resultados.Hola, [Nombre del Cliente o "equipo de X"],He analizado detalladamente tu necesidad sobre [menciona el problema especÃ­fico del cliente]. Entiendo que el objetivo principal es [mencinar el resultado final que buscan] para evitar [mencionar un dolor del cliente].Â¿CÃ³mo vamos a lograrlo?Mi enfoque se basa en la ejecuciÃ³n de alta precisiÃ³n. Para este proyecto, propongo el siguiente esquema de trabajo:Fase 1 (DiagnÃ³stico): IdentificaciÃ³n de cuellos de botella en [proceso].Fase 2 (Desarrollo): ImplementaciÃ³n de la soluciÃ³n tÃ©cnica utilizando [tu habilidad].Fase 3 (Refinamiento): Pruebas de calidad y entrega final documentada.Disponibilidad y Compromiso:Actualmente, gestiono mi agenda bajo un modelo de exclusividad por proyectos, lo que me permite dedicar 15 horas semanales de enfoque total a tu cuenta. Esto garantiza que cada hora facturada sea de trabajo profundo y resultados tangibles, sin las distracciones de la gestiÃ³n multicuenta masiva.Â¿Por quÃ© trabajar conmigo?[Hito personal 1: ej. 5 aÃ±os de experiencia en...][Hito personal 2: ej. Especialista en optimizar tiempos de entrega...]Adjunto algunos ejemplos de proyectos similares donde logrÃ© [mencionar un resultado numÃ©rico o beneficio real].Siguiente paso:Me encantarÃ­a coordinar una breve charla de 10 minutos para ajustar los detalles tÃ©cnicos y dar inicio esta misma semana. Â¿Tienes disponibilidad maÃ±ana por la maÃ±ana?Quedo a tu disposiciÃ³n, papurrini.Saludos,[Tu Nombre]ðŸ’¡ Tips Extra para Workana:Precio: Si vas por 15 horas, no cobres lo mÃ¡s bajo. Un experto que trabaja 15 horas bien enfocadas vale mÃ¡s que un novato que trabaja 40 horas dando vueltas.Testimonios: En Workana, el sistema de estrellas es sagrado. Si es tu primer proyecto, ofrece un pequeÃ±o "bonus" (ej. un manual de uso gratuito) a cambio de una reseÃ±a honesta.
+
+Playbook de postulaciÃ³n â€œganadoraâ€ (Workana + multi-plataforma) con 15 hs/semana
+
+Esto es una guÃ­a operativa para que cada propuesta tenga â€œolor a profesionalâ€ y reduzca el riesgo percibido por el cliente (que es, literalmente, lo que compra).
+
+1) Lo que realmente decide si te contratan (en cualquier plataforma)
+
+Tu propuesta compite en 2 filtros:
+
+Humano (cliente): Â¿entendiste el problema? Â¿me inspirÃ¡s confianza? Â¿podÃ©s cumplir tiempos?
+
+Plataforma (ranking / visibilidad): premia seÃ±ales de confiabilidad: respuesta rÃ¡pida, buenas calificaciones, evitar incumplimientos y reglas rotas.
+
+En Workana, por ejemplo, el ranking considera ingresos/calificaciones recientes, incumplimientos, tasa de respuesta, mediaciones, y hasta alertas por intentar irte fuera de la plataforma.
+
+2) Reglas crÃ­ticas por plataforma (para no autoboicotearte)
+Workana (tu caso)
+
+La propuesta debe incluir remuneraciÃ³n esperada, plazo, y en â€œDescribe tu propuestaâ€ dejar alcance y lÃ­mites claros.
+
+SÃ© claro, profesional y demostrÃ¡ disponibilidad e interÃ©s.
+
+No compartas ni solicites contacto/enlaces externos antes de â€œTrabajandoâ€. Puede implicar sanciones o pÃ©rdida de cuenta.
+
+Workana incluso penaliza el ranking si detecta intentos de contacto/pago por fuera.
+
+TenÃ© presente comisiones (para cotizar con margen): puede bajar hasta 5% en relaciones de largo plazo, y el cliente paga fee de servicio.
+
+Upwork (referencia Ãºtil)
+
+Propuestas tÃ­picamente claras y concisas (~400 palabras) con beats: experiencia relevante, entendimiento, enfoque, diferenciadores y prÃ³ximos pasos.
+
+TambiÃ©n prohÃ­be compartir contacto antes del contrato.
+
+â€œConnectsâ€ son el costo por postular y existen mecÃ¡nicas para optimizar ese gasto.
+
+PeoplePerHour (referencia Ãºtil)
+
+Evitar copy-paste, reflejar el brief, explicar enfoque por etapas, dejar disponibilidad explÃ­cita, y mantenerlo legible.
+
+Fiverr (si alguna vez armÃ¡s â€œgigsâ€)
+
+El SEO manda: keywords fuertes en tÃ­tulo y tags sin keyword stuffing.
+
+(Mapa rÃ¡pido de â€œgrandes ligasâ€ y enfoques por plataforma describe bien esa segmentaciÃ³n general: marketplaces masivos como Freelancer/Upwork, creativos como Behance/Dribbble, y Ã©lite como Toptal).
+
+3) Estrategia con 15 hs/semana: la clave no es postular mucho, es postular afilado
+Filtro de proyectos (para elegir dÃ³nde vale tu tiempo)
+
+Solo aplicÃ¡ si el proyecto tiene:
+
+Objetivo claro o al menos â€œdolorâ€ claro (aunque estÃ© mal redactado).
+
+Presupuesto razonable para el alcance (o margen para negociar).
+
+SeÃ±ales de cliente serio: requisitos, contexto, tiempos, criterio de Ã©xito.
+
+EvitÃ¡ (por salud mental y ranking):
+
+Proyectos con â€œnecesito todo para ayerâ€ sin specs.
+
+Clientes que piden contacto externo o pago off-platform (bandera roja + penalizaciones).
+
+4) Estructura de propuesta que convierte (plantilla â€œuniversalâ€)
+
+Objetivo: en 10-15 segundos el cliente debe pensar: â€œesta persona entendiÃ³ y tiene planâ€.
+
+Plantilla (copiable y editable)
+
+1) Apertura quirÃºrgica (1-2 lÃ­neas)
+
+â€œHola {Nombre/Equipo}. LeÃ­ que necesitan {dolor/objetivo}. Para confirmar: {parÃ¡frasis corta del brief}.â€
+
+2) Micro-diagnÃ³stico (2-4 bullets)
+
+â€œVeo 3 puntos clave:
+
+{punto 1}
+
+{punto 2}
+
+{punto 3}â€
+
+3) De-risk plan (cÃ³mo lo harÃ­as)
+
+â€œPropongo trabajarlo en etapas:
+
+Kickoff + alineaciÃ³n (30-45 min) y definiciÃ³n de â€˜Doneâ€™
+
+Entrega 1: {entregable medible}
+
+Entrega 2: {entregable medible}
+
+Cierre: validaciÃ³n + handoff + documentaciÃ³nâ€
+
+4) Disponibilidad (tu diferencial por restricciÃ³n)
+
+â€œPuedo dedicar 15 hs semanales. Para cuidar tiempos, trabajo con sprints y entregas parciales. Ventanas tÃ­picas: {dÃ­as/horas}.â€
+
+5) Alcance y lÃ­mites (anti malentendidos)
+
+â€œIncluye: {incluye}.
+No incluye (salvo que lo acordemos): {no incluye}.â€
+
+6) Preguntas clave (3-6)
+
+â€œAntes de arrancar, necesito 4 datos: {preguntas}.â€
+
+7) Cierre con prÃ³ximo paso
+
+â€œSi te sirve, hoy mismo puedo:
+
+armar un mini-plan con hitos y fechas
+
+confirmar estimaciÃ³n y primer entregableâ€
+
+ðŸ“Œ Esto calza perfecto con lo que Workana pide (precio + plazo + alcance claro).
+
+5) Bloques listos para pegar (especial â€œ15 hs/semanaâ€)
+A) â€œ15 hs/semanaâ€ sin que suene a limitaciÃ³n
+
+â€œTrabajo con una dedicaciÃ³n fija de 15 hs/semana, lo que me permite asegurar consistencia y calidad. Para cumplir fechas, organizo el avance en entregas semanales con checkpoints.â€
+
+B) Hitos (ideal para precio fijo)
+
+â€œHito 1: {definiciÃ³n + entregable}
+Hito 2: {definiciÃ³n + entregable}
+Hito 3: {definiciÃ³n + entregable}
+Cada hito se valida contra criterios de aceptaciÃ³n acordados.â€
+
+(En marketplaces como Freelancer es comÃºn proponer milestones/tareas al ofertar, y permiten varios hitos. )
+
+C) â€œNo comparto contacto externoâ€ sin quedar duro (Workana)
+
+â€œPara cuidarnos y respetar las polÃ­ticas, coordinemos todo por Workana hasta iniciar el proyecto. Luego, si hace falta, usamos el canal que prefieras.â€
+
+(Es coherente con las polÃ­ticas de Workana y evita sanciones. )
+
+6) Set de preguntas â€œproâ€ (sirven para casi cualquier proyecto)
+
+ElegÃ­ 4-6 segÃºn el caso:
+
+â€œÂ¿CuÃ¡l es el resultado medible que esperÃ¡s al final?â€
+
+â€œÂ¿QuÃ© serÃ­a un â€˜Ã©xitoâ€™ en 7 dÃ­as / 30 dÃ­as?â€
+
+â€œÂ¿Hay ejemplos/referencias de lo que te gusta o no te gusta?â€
+
+â€œÂ¿QuÃ© dependencias existen (accesos, usuarios, APIs, assets, stakeholders)?â€
+
+â€œÂ¿Hay deadline real o es flexible?â€
+
+â€œÂ¿CÃ³mo prefieren validar entregables (checklist, demo, staging, reporte)?â€
+
+7) Checklist final antes de enviar (Workana-friendly)
+
+ MencionÃ© precio y plazo (aunque sea rango)
+
+ DefinÃ­ alcance + no alcance
+
+ Hice una parÃ¡frasis del brief (demuestra lectura real)
+
+ DejÃ© 15 hs/semana y cÃ³mo lo gestiono (sprints/hitos)
+
+ EvitÃ© links/contacto externo
+
+ Cierre con prÃ³ximo paso claro
+
+ Responder rÃ¡pido ayuda al ranking en Workana (tasa de respuesta)
+
+Ejemplo completo (orientado a IT/QA, ajustable)
+
+Hola {Nombre}, vi que buscan {objetivo del proyecto}. Para confirmar, el alcance que entendÃ­ es: {parÃ¡frasis}.
+Puntos clave que atacarÃ­a primero:
+
+{riesgo 1}
+
+{riesgo 2}
+
+{resultado 1}
+
+Propuesta de trabajo (en etapas):
+
+Kickoff (30-45 min) + definiciÃ³n de criterios de aceptaciÃ³n
+
+Setup / auditorÃ­a inicial: {entregable medible}
+
+Sprint 1: {entregable medible}
+
+Sprint 2: {entregable medible} + documentaciÃ³n + handoff
+
+Disponibilidad: puedo dedicar 15 hs semanales. Trabajo con entregas semanales para que siempre veas avance.
+Plazo estimado: {X semanas} (ajustable segÃºn accesos/feedback).
+Presupuesto: {USD/ARS} ({fijo / por hora}), con hitos si te sirve.
+
+Preguntas rÃ¡pidas para afinar estimaciÃ³n:
+
+{pregunta}
+
+{pregunta}
+
+{pregunta}
+
+Si te parece bien, hoy mismo te envÃ­o un mini-plan con hitos y fechas y arrancamos por Workana.
+
